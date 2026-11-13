@@ -1,0 +1,45 @@
+body {
+    background-image: url("./Gemini_Generated_Image_margc8margc8marg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    margin: 0;
+}
+
+section {
+    text-align: center;
+    color: white;
+}
+
+section h2 {
+    color: white;
+    text-align: center;
+}
+
+#clock {
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#date {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+#time {
+    text-align: center;
+}
+
+#hi {
+    color: white;
+    text-align: center;
+}
+
+#hii {
+    color: white;
+    text-align: center;
+}
